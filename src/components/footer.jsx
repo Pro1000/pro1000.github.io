@@ -3,6 +3,6 @@ import React, {Component} from 'react'
 export default class Footer extends Component {
 
     render() {
-        return <div>About page</div>
+        return <div>Footer</div>
     }
 }
